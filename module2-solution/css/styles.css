@@ -11,8 +11,8 @@ body{
 }
 
 .row{
-  margin-top: 5%;
-  margin-bottom: 5%;
+  margin-top: 1%;
+  margin-bottom: 1%;
 }
 
 h1 {
@@ -35,7 +35,7 @@ h1 {
   	border: 1px solid black;
   	width: 100px;
  	height: 40px;
-  	padding: 5px;
+  	padding: 1px;
   	float: right;
   	margin-right: 36px;
   	margin-top: 0px;
