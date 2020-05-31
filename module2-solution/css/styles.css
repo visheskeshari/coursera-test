@@ -32,7 +32,7 @@ h1 {
 .content-name{
   	overflow: none;
   	text-align: center;
-  	border: 1px black;
+  	border: 1px solid black;
   	width: 100px;
  	height: 40px;
   	padding: 5px;
@@ -44,7 +44,7 @@ h1 {
 }
 
 .content{
-  	border: 1px  black;
+  	border: 1px solid black;
   	width: 90%;
   	height: auto;
   	margin: 2.5%;
