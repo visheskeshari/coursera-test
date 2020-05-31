@@ -85,9 +85,14 @@ section {
 	background-color: pink;
 }
 
+.box{
+  width: 100%;
+  overflow: none;
+}
+
 .row {
-	width: 100%;
-	overflow: none;
+	margin-top: 5%;
+        margin-bottom: 5%;
 }
 
 /* Desktop view */
